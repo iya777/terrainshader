@@ -11,7 +11,8 @@ Pewarnaannya berdasarkan pada offset nilai y, bukan xz.
 
 # Example Usage
 ![Screenshot](shader-testing.gif)
-Variables:
+
+\nVariables:
 - Offset adalah 4 buah nilai (floating point) yang digunakan untuk membuat batasan dari satu warna ke warna lainnya.
 - Smoothness adalah nilai yang digunakan untuk memberikan seberapa jauh transisi yang akan dipakai dari satu warna ke warna lainnya.
 - Indirect Light Bias adalah nilai yang digunakan untuk mengatur pengcahayaan tidak langsung (indirect lighting). Umumnya bernilai 1.
